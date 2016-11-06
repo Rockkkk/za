@@ -2,16 +2,16 @@
 <testng-results skipped="1" failed="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="45817" started-at="2016-11-06T08:45:51Z" finished-at="2016-11-06T08:46:37Z">
+  <suite name="Default suite" duration-ms="28972" started-at="2016-11-06T10:38:38Z" finished-at="2016-11-06T10:39:07Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="45817" started-at="2016-11-06T08:45:51Z" finished-at="2016-11-06T08:46:37Z">
+    <test name="Default test" duration-ms="28972" started-at="2016-11-06T10:38:38Z" finished-at="2016-11-06T10:39:07Z">
       <class name="com.act.Hybrid.bvt.AdminBvt_263">
-        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.act.Hybrid.bvt.AdminBvt_263@1224144a]" name="beforeSuite" is-config="true" duration-ms="1617" started-at="2016-11-06T14:15:50Z" finished-at="2016-11-06T14:15:51Z">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.act.Hybrid.bvt.AdminBvt_263@1224144a]" name="beforeSuite" is-config="true" duration-ms="2699" started-at="2016-11-06T16:08:35Z" finished-at="2016-11-06T16:08:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method status="FAIL" signature="beforeClass()[pri:0, instance:com.act.Hybrid.bvt.AdminBvt_263@1224144a]" name="beforeClass" is-config="true" duration-ms="0" started-at="2016-11-06T14:15:51Z" finished-at="2016-11-06T14:15:51Z">
+        <test-method status="FAIL" signature="beforeClass()[pri:0, instance:com.act.Hybrid.bvt.AdminBvt_263@1224144a]" name="beforeClass" is-config="true" duration-ms="0" started-at="2016-11-06T16:08:38Z" finished-at="2016-11-06T16:08:38Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[ Project is not selected successfully. expected [true] but found [false]]]>
@@ -52,23 +52,23 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="SKIP" signature="beforeMethod()[pri:0, instance:com.act.Hybrid.bvt.AdminBvt_263@1224144a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-11-06T14:16:37Z" finished-at="2016-11-06T14:16:37Z">
+        <test-method status="SKIP" signature="beforeMethod()[pri:0, instance:com.act.Hybrid.bvt.AdminBvt_263@1224144a]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2016-11-06T16:09:07Z" finished-at="2016-11-06T16:09:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="SKIP" signature="testBvt1()[pri:0, instance:com.act.Hybrid.bvt.AdminBvt_263@1224144a]" name="testBvt1" duration-ms="4" started-at="2016-11-06T14:16:37Z" finished-at="2016-11-06T14:16:37Z">
+        <test-method status="SKIP" signature="testBvt1()[pri:0, instance:com.act.Hybrid.bvt.AdminBvt_263@1224144a]" name="testBvt1" duration-ms="5" started-at="2016-11-06T16:09:07Z" finished-at="2016-11-06T16:09:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testBvt1 -->
-        <test-method status="SKIP" signature="afterMethod()[pri:0, instance:com.act.Hybrid.bvt.AdminBvt_263@1224144a]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-11-06T14:16:37Z" finished-at="2016-11-06T14:16:37Z">
+        <test-method status="SKIP" signature="afterMethod()[pri:0, instance:com.act.Hybrid.bvt.AdminBvt_263@1224144a]" name="afterMethod" is-config="true" duration-ms="0" started-at="2016-11-06T16:09:07Z" finished-at="2016-11-06T16:09:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="SKIP" signature="afterClass()[pri:0, instance:com.act.Hybrid.bvt.AdminBvt_263@1224144a]" name="afterClass" is-config="true" duration-ms="0" started-at="2016-11-06T14:16:37Z" finished-at="2016-11-06T14:16:37Z">
+        <test-method status="SKIP" signature="afterClass()[pri:0, instance:com.act.Hybrid.bvt.AdminBvt_263@1224144a]" name="afterClass" is-config="true" duration-ms="0" started-at="2016-11-06T16:09:07Z" finished-at="2016-11-06T16:09:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-        <test-method status="SKIP" signature="afterSuite()[pri:0, instance:com.act.Hybrid.bvt.AdminBvt_263@1224144a]" name="afterSuite" is-config="true" duration-ms="0" started-at="2016-11-06T14:16:37Z" finished-at="2016-11-06T14:16:37Z">
+        <test-method status="SKIP" signature="afterSuite()[pri:0, instance:com.act.Hybrid.bvt.AdminBvt_263@1224144a]" name="afterSuite" is-config="true" duration-ms="0" started-at="2016-11-06T16:09:07Z" finished-at="2016-11-06T16:09:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSuite -->
